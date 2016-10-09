@@ -1,0 +1,37 @@
+  int ChannelType = clsAnalogIO.ANALOGINPUT;
+
+            NumAIChans1 = AIOProps1.FindAnalogChansOfType(DaqBoard1, ChannelType,
+                out ADResolution1, out Range1, out LowChan, out DefaultTrig);
+
+           // int ChannelType = clsAnalogIO.ANALOGOUTPUT;
+
+            NumAIChans1 = AIOProps2.FindAnalogChansOfType(DaqBoard1, clsAnalogIO.ANALOGOUTPUT,
+                out ADResolution1, out Range1, out LowChan, out DefaultTrig);
+
+
+
+
+
+input:
+
+int portNumber = int.Parse(tbTestAnalogPortNum.Text);
+                    if (ADResolution1 > 16)
+                    {
+                        ULStat = DaqBoard1.AIn32(portNumber, Range.Bip2Volts, out DataValue32_1, Options);
+                        lblTestAlalogValue.Text = DataValue32_1.ToString();
+                       
+                        
+
+                    }
+                    else
+                    {
+                        ULStat = DaqBoard1.AIn(portNumber, Range.Bip2Volts, out DataValue_1);
+
+                        lblTestAlalogValue.Text = DataValue_1.ToString();
+                       
+                        
+                    }
+
+output:
+
+ DaqBoard1.AOut(int.Parse(tbTestAnalogPortNum.Text), Range.Bip1Volts, short.Parse(tbAnalogOutputValue.Text));

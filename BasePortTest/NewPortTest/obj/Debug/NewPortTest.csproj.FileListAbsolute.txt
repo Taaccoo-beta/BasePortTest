@@ -1,0 +1,506 @@
+c:\users\heave\documents\visual studio 2015\Projects\NewPortTest\NewPortTest\bin\Debug\NewPortTest.exe
+c:\users\heave\documents\visual studio 2015\Projects\NewPortTest\NewPortTest\bin\Debug\NewPortTest.pdb
+c:\users\heave\documents\visual studio 2015\Projects\NewPortTest\NewPortTest\bin\Debug\MccDaq.dll
+c:\users\heave\documents\visual studio 2015\Projects\NewPortTest\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+c:\users\heave\documents\visual studio 2015\Projects\NewPortTest\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+c:\users\heave\documents\visual studio 2015\Projects\NewPortTest\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+c:\users\heave\documents\visual studio 2015\Projects\NewPortTest\NewPortTest\obj\Debug\NewPortTest.exe
+c:\users\heave\documents\visual studio 2015\Projects\NewPortTest\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Documents\Visual Studio 2015\Projects\NewPortTest\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\NewPortTest\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\NewPortTest\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\NewPortTest\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\NewPortTest\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\NewPortTest\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\NewPortTest\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\NewPortTest\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\NewPortTest\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\OnePort--0\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\OnePort--0\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\OnePort--0\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\OnePort--0\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\OnePort--0\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\OnePort--0\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\OnePort--0\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\OnePort--0\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\OnePort--0\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\OnePort--4--rawData - 副本\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\OnePort--4--rawData - 副本\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\OnePort--4--rawData - 副本\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\OnePort--4--rawData - 副本\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\OnePort--4--rawData - 副本\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\OnePort--4--rawData - 副本\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\OnePort--4--rawData - 副本\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\OnePort--4--rawData - 副本\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\OnePort--4--rawData - 副本\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\PortTest\OnePort--4\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\PortTest\OnePort--4\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\PortTest\OnePort--4\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\PortTest\OnePort--4\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\PortTest\OnePort--4\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\PortTest\OnePort--4\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\PortTest\OnePort--4\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\PortTest\OnePort--4\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\PortTest\OnePort--4\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\OnePort--4\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\OnePort--4\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\OnePort--4\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\OnePort--4\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\OnePort--4\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\OnePort--4\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\OnePort--4\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\OnePort--4\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\PortTest\DigitOutTest\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\PortTest\DigitOutTest\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\PortTest\DigitOutTest\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\PortTest\DigitOutTest\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\PortTest\DigitOutTest\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\PortTest\DigitOutTest\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\PortTest\DigitOutTest\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\PortTest\DigitOutTest\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\DigitPortB\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortB\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortB\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortB\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortB\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\DigitPortB\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\DigitPortB\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\DigitPortB\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\DigitPortB\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\DigitPortB--success - 副本\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortB--success - 副本\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortB--success - 副本\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortB--success - 副本\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortB--success - 副本\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\DigitPortB--success - 副本\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\DigitPortB--success - 副本\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\DigitPortB--success - 副本\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\DigitPortB--success - 副本\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\DigitPortB--New\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortB--New\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortB--New\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortB--New\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortB--New\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\DigitPortB--New\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\DigitPortB--New\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\DigitPortB--New\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\DigitPortA--New\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortA--New\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortA--New\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortA--New\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortA--New\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\DigitPortA--New\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\DigitPortA--New\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\DigitPortA--New\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\DigitPortA--New\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\DigitPortA--Board0\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortA--Board0\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortA--Board0\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortA--Board0\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortA--Board0\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\DigitPortA--Board0\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\DigitPortA--Board0\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\DigitPortA--Board0\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\DigitPortA--ChoiceBoard\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortA--ChoiceBoard\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortA--ChoiceBoard\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\DigitPortA--ChoiceBoard\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\DigitPortA--ChoiceBoard\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\DigitPortA--ChoiceBoard\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\DigitPortA--ChoiceBoard\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\DigitPortA--ChoiceBoard\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\DigitPortA--ChoiceBoard\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\总测试\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\总测试\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\总测试\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\总测试\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\总测试\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\总测试\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\总测试\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\总测试\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\总测试\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-1\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-1\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-1\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-1\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-1\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-1\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\Test-1\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-1\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-1\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-2\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-2\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-2\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-2\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-2\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-2\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-2\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-2\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-3\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-3\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-3\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-3\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-3\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-3\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\Test-3\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-3\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-3\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-4\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-4\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-4\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-4\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-4\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-4\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-4\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-4\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-5\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-5\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-5\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-5\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-5\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-5\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-5\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-5\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-6\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-6\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-6\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-6\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-6\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-6\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\Test-6\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-6\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-6\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-7、\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-7、\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-7、\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-7、\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-7、\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-7、\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-7、\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-7、\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-8\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-8\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-8\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-8\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-8\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-8\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-8\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-8\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-9\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-9\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-9\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-9\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-9\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-9\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-9\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-9\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-12\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-12\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-12\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-12\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-12-时序\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12-时序\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12-时序\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12-时序\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12-时序\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-12-时序\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-12-时序\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-12-时序\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-12-温度不中断显示\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12-温度不中断显示\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12-温度不中断显示\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12-温度不中断显示\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12-温度不中断显示\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-12-温度不中断显示\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\Test-12-温度不中断显示\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-12-温度不中断显示\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-12-温度不中断显示\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-12-自然升降温\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12-自然升降温\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12-自然升降温\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12-自然升降温\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12-自然升降温\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-12-自然升降温\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-12-自然升降温\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-12-自然升降温\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-12-开始同时发出信号\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12-开始同时发出信号\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12-开始同时发出信号\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12-开始同时发出信号\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12-开始同时发出信号\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-12-开始同时发出信号\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-12-开始同时发出信号\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-12-开始同时发出信号\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-12-开始同时发出信号 - 副本\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12-开始同时发出信号 - 副本\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12-开始同时发出信号 - 副本\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-12-开始同时发出信号 - 副本\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-12-开始同时发出信号 - 副本\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-12-开始同时发出信号 - 副本\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-12-开始同时发出信号 - 副本\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-12-开始同时发出信号 - 副本\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-15-高低电平控制\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-15-高低电平控制\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 1\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 1\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 1\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 1\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 1\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 1\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 1\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 1\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 2\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 2\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 3\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 3\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 3\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 3\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 3\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 3\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 3\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 3\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 3\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 4\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 4\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 4\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 4\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 4\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 4\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 4\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-15-高低电平控制 - 4\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-15-高低电平控制 - success\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-15-高低电平控制 - success\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-15-高低电平控制 - success\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-15-高低电平控制 - success\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-15-高低电平控制 - success\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-15-高低电平控制 - success\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-15-高低电平控制 - success\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-15-高低电平控制 - success\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-16-高低电平控制-success-1 - 副本\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-16-高低电平控制-success-1 - 副本\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-16-高低电平控制-success-1 - 副本\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-16-高低电平控制-success-1 - 副本\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-16-高低电平控制-success-1 - 副本\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-16-高低电平控制-success-1 - 副本\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-16-高低电平控制-success-1 - 副本\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-16-高低电平控制-success-1 - 副本\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-整合输出\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-整合输出\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-17-整合输出\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-17-整合输出\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-17-整合输出\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-17-整合输出-new\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-整合输出-new\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出-new\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-整合输出-new\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出-new\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-17-整合输出-new\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-17-整合输出-new\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-17-整合输出-new\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-17-整合输出-new-1\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-整合输出-new-1\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出-new-1\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-整合输出-new-1\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出-new-1\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-17-整合输出-new-1\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\Test-17-整合输出-new-1\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-17-整合输出-new-1\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-17-整合输出-new-1\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数 - 副本\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数 - 副本\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数 - 副本\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数 - 副本\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数 - 副本\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数 - 副本\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数 - 副本\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数 - 副本\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-17-整合输出-去掉计数 - 副本\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-17-完整细节调控\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-完整细节调控\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-完整细节调控\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-完整细节调控\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-完整细节调控\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-17-完整细节调控\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-17-完整细节调控\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-17-完整细节调控\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-17-完整细节调控-1\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-完整细节调控-1\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-完整细节调控-1\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-完整细节调控-1\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-完整细节调控-1\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-17-完整细节调控-1\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-17-完整细节调控-1\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-17-完整细节调控-1\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-2\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-2\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-2\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-2\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-2\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-2\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-2\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-2\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 1\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 1\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 1\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 1\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 1\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 1\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 1\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 1\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\heave\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 1\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Documents\Tencent Files\1584093613\FileRecv\Test-17-完整细节调控-拟合后-输入系数 - 2\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Documents\Tencent Files\1584093613\FileRecv\Test-17-完整细节调控-拟合后-输入系数 - 2\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 2 - Copy\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 2 - Copy\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 2 - Copy\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 2 - Copy\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 2 - Copy\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\HuPengbo\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 2 - Copy\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\HuPengbo\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 2 - Copy\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\Test-17-完整细节调控-拟合后-输入系数 - 2 - Copy\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-4-2016\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-4-2016\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-4-2016\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-4-2016\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-4-2016\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-4-2016\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-4-2016\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-4-2016\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-4-2016\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-5-2016\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-5-2016\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-5-2016\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-5-2016\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-5-2016\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-5-2016\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-5-2016\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-5-2016\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-7-2016\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-7-2016\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-7-2016\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-7-2016\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-7-2016\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-7-2016\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-7-2016\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-7-2016\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\newFourDevTest-8-7-2016\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-7-2016\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-7-2016\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-7-2016\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-7-2016\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-7-2016\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-7-2016\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-7-2016\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-7-2016\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016 - change\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\newFourDevTest-simInput-8-8-2016 - change\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-17\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-17\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-17\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-17\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-17\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-17\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-17\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-17\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-17\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-29\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-29\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-31-手工控制\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-31-手工控制\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-31-手工控制\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-31-手工控制\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-31-手工控制\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-31-手工控制\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-31-手工控制\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-8-31-手工控制\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-9-1-手工控制\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-9-1-手工控制\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-9-1-手工控制\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-9-1-手工控制\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-9-1-手工控制\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-9-1-手工控制\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-9-1-手工控制\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\PIDIntegratedFourDev-9-1-手工控制\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+H:\重构\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.exe
+H:\重构\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.pdb
+H:\重构\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\bin\Debug\NewPortTest.exe
+H:\重构\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\bin\Debug\NewPortTest.pdb
+H:\重构\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\bin\Debug\MccDaq.dll
+H:\重构\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+H:\重构\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+H:\重构\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Tencent Files\727518244\FileRecv\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\pc\Documents\Tencent Files\727518244\FileRecv\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\pc\Documents\Tencent Files\727518244\FileRecv\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\pc\Documents\Tencent Files\727518244\FileRecv\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\pc\Documents\Tencent Files\727518244\FileRecv\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\pc\Documents\Tencent Files\727518244\FileRecv\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Tencent Files\727518244\FileRecv\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\pc\Documents\Tencent Files\727518244\FileRecv\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\pc\Documents\Tencent Files\727518244\FileRecv\PIDIntegratedFourDev-9-1-手工控制 - 自测\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+H:\重构\自测\NewPortTest\obj\Debug\NewPortTest.exe
+H:\重构\自测\NewPortTest\obj\Debug\NewPortTest.pdb
+H:\重构\自测\NewPortTest\bin\Debug\NewPortTest.exe
+H:\重构\自测\NewPortTest\bin\Debug\NewPortTest.pdb
+H:\重构\自测\NewPortTest\bin\Debug\MccDaq.dll
+H:\重构\自测\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+H:\重构\自测\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+H:\重构\自测\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+H:\重构\BasePortTest\NewPortTest\obj\Debug\NewPortTest.exe
+H:\重构\BasePortTest\NewPortTest\obj\Debug\NewPortTest.pdb
+H:\重构\BasePortTest\NewPortTest\bin\Debug\NewPortTest.exe
+H:\重构\BasePortTest\NewPortTest\bin\Debug\NewPortTest.pdb
+H:\重构\BasePortTest\NewPortTest\bin\Debug\MccDaq.dll
+H:\重构\BasePortTest\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache
+H:\重构\BasePortTest\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+H:\重构\BasePortTest\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+H:\重构\BasePortTest\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\BasePortTest\NewPortTest\obj\Debug\NewPortTest.exe
+C:\Users\pc\Desktop\BasePortTest\NewPortTest\obj\Debug\NewPortTest.pdb
+C:\Users\pc\Desktop\BasePortTest\NewPortTest\bin\Debug\NewPortTest.exe
+C:\Users\pc\Desktop\BasePortTest\NewPortTest\bin\Debug\NewPortTest.pdb
+C:\Users\pc\Desktop\BasePortTest\NewPortTest\bin\Debug\MccDaq.dll
+C:\Users\pc\Desktop\BasePortTest\NewPortTest\obj\Debug\NewPortTest.Form1.resources
+C:\Users\pc\Desktop\BasePortTest\NewPortTest\obj\Debug\NewPortTest.Properties.Resources.resources
+C:\Users\pc\Desktop\BasePortTest\NewPortTest\obj\Debug\NewPortTest.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\BasePortTest\NewPortTest\obj\Debug\NewPortTest.csprojResolveAssemblyReference.cache

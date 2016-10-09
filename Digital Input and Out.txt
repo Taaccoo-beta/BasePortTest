@@ -1,0 +1,76 @@
+输入只有0-15可以，输出可以全部输出：
+
+
+
+Input:
+
+ MccDaq.DigitalLogicState bitValue;
+            int portNum = int.Parse(tbTestDnum.Text);
+            MccDaq.DigitalPortDirection ConfigDirection;
+           // ConfigDirection = DigitalPortDirection.DigitalOut;
+
+            ConfigDirection = DigitalPortDirection.DigitalIn;
+
+            DaqBoard1.DConfigPort(DigitalPortType.FirstPortA, ConfigDirection);
+
+
+
+
+            MccDaq.DigitalPortType BitPort = MccDaq.DigitalPortType.FirstPortA;
+
+
+            //MccDaq.DigitalLogicState BitValueHigh = MccDaq.DigitalLogicState.High;
+            //MccDaq.DigitalLogicState BitValueLow = MccDaq.DigitalLogicState.Low;
+
+        
+
+                MccDaq.ErrorInfo ULStat = DaqBoard1.DBitIn(BitPort, portNum, out bitValue);
+                lblShowD.Text = Convert.ToInt32(bitValue).ToString("0");
+
+                btnOutDport.Text = "Off";
+                testPortControl = false;
+
+
+outPut:
+
+ MccDaq.DigitalLogicState bitValue;
+          //  int portNum = int.Parse(tbTestDnum.Text);
+            MccDaq.DigitalPortDirection ConfigDirection;
+            // ConfigDirection = DigitalPortDirection.DigitalOut;
+
+            ConfigDirection = DigitalPortDirection.DigitalOut;
+
+            DaqBoard1.DConfigPort(DigitalPortType.FirstPortA, ConfigDirection);
+
+            int portNum = int.Parse(tbTestAnalogPortNum.Text);
+
+            MccDaq.DigitalPortType BitPort = MccDaq.DigitalPortType.FirstPortA;
+
+
+            MccDaq.DigitalLogicState BitValueHigh = MccDaq.DigitalLogicState.High;
+            MccDaq.DigitalLogicState BitValueLow = MccDaq.DigitalLogicState.Low;
+
+            if (abc)
+
+            {
+                DaqBoard1.DBitOut(BitPort, portNum, BitValueLow);
+                abc = false;
+                btnOnoff_3.Text = "Off";
+            }      //DaqBoard1.DBitOut(BitPort, 0, BitValueLow);
+            else
+            {
+                DaqBoard1.DBitOut(BitPort, portNum, BitValueHigh);
+                abc = true;
+                btnOnoff_3.Text = "On";
+            }
+
+
+
+
+另一种方法：
+  PortType = clsDigitalIO.PORTOUT;
+            NumPorts1 = DioProps1.FindPortsOfType(DaqBoard1, PortType, out ProgAbility,
+               out PortNum1, out NumBits, out FirstBit);
+
+
+可以直接输入输出
